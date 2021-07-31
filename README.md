@@ -11,7 +11,7 @@ You can also add certain concepts implemented through code.
 ## How to run
 Clone the repository using the following command:
 ```
-$ git clone https://github.com/SiddharthaAnand/datastructures.git
+$ git clone https://github.com/piyush168713/datastructures.git
 ```
 Switch directory inside the cloned directory:
 ```
